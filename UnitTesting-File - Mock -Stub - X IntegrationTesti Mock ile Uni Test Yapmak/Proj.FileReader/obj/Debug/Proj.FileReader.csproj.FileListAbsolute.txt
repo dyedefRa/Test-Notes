@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\UnitTesting-File\Proj.FileReader\bin\Debug\Proj.FileReader.dll
+C:\Users\Asus\source\repos\UnitTesting-File\Proj.FileReader\bin\Debug\Proj.FileReader.pdb
+C:\Users\Asus\source\repos\UnitTesting-File\Proj.FileReader\obj\Debug\Proj.FileReader.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\UnitTesting-File\Proj.FileReader\obj\Debug\Proj.FileReader.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\UnitTesting-File\Proj.FileReader\obj\Debug\Proj.FileReader.dll
+C:\Users\Asus\source\repos\UnitTesting-File\Proj.FileReader\obj\Debug\Proj.FileReader.pdb

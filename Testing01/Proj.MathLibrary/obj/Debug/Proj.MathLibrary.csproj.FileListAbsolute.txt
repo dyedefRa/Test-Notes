@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Testing01\Proj.MathLibrary\bin\Debug\Proj.MathLibrary.dll
+C:\Users\Asus\source\repos\Testing01\Proj.MathLibrary\bin\Debug\Proj.MathLibrary.pdb
+C:\Users\Asus\source\repos\Testing01\Proj.MathLibrary\obj\Debug\Proj.MathLibrary.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Testing01\Proj.MathLibrary\obj\Debug\Proj.MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Testing01\Proj.MathLibrary\obj\Debug\Proj.MathLibrary.dll
+C:\Users\Asus\source\repos\Testing01\Proj.MathLibrary\obj\Debug\Proj.MathLibrary.pdb
